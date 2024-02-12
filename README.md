@@ -13,7 +13,7 @@
 
 
 <h1> 2. Satudata </h1>
-<img src="https://github.com/TippedLeader110/portfolio/blob/main/img/02.png?raw=true" width="400" alt="tippedleader110" />
+<img src="https://github.com/TippedLeader110/portfolio/blob/main/img/02.png?raw=true" width="800" alt="tippedleader110" />
 
 <h1> 3. Klasifikasi Ikan Berformalin dan Non Formalin </h1>
 <img src="https://github.com/TippedLeader110/portfolio/blob/main/img/03.png?raw=true" width="200" alt="tippedleader110" />
@@ -28,4 +28,4 @@
 <p> Aplikasi Internal BAPPEDA Pemko Medan untuk mengelolah rencana kerja, monitoring evaluasi, musrenbang dll
 <a href="https://dev.pemkomedan.go.id">https://dev.pemkomedan.go.id</a>
 <br>
-<img src="https://github.com/TippedLeader110/portfolio/blob/main/img/06.png?raw=true" width="400" alt="tippedleader110" />
+<img src="https://github.com/TippedLeader110/portfolio/blob/main/img/06.png?raw=true" width="800" alt="tippedleader110" />
