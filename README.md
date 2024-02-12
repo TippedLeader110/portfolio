@@ -23,3 +23,8 @@
 
 <h1> 5. Kalkulator PKS </h1>
 <img src="https://github.com/TippedLeader110/portfolio/blob/main/img/05.png?raw=true" width="200" alt="tippedleader110" />
+
+<h1> 6. Devplan </h1>
+<p> Aplikasi Internal BAPPEDA Pemko Medan untuk mengelolah rencana kerja, monitoring evaluasi, musrenbang dll
+<a href="https://dev.pemkomedan.go.id">https://dev.pemkomedan.go.id</a>
+<img src="https://github.com/TippedLeader110/portfolio/blob/main/img/06.png?raw=true" width="200" alt="tippedleader110" />
