@@ -27,4 +27,5 @@
 <h1> 6. Devplan </h1>
 <p> Aplikasi Internal BAPPEDA Pemko Medan untuk mengelolah rencana kerja, monitoring evaluasi, musrenbang dll
 <a href="https://dev.pemkomedan.go.id">https://dev.pemkomedan.go.id</a>
-<img src="https://github.com/TippedLeader110/portfolio/blob/main/img/06.png?raw=true" width="200" alt="tippedleader110" />
+<br>
+<img src="https://github.com/TippedLeader110/portfolio/blob/main/img/06.png?raw=true" width="400" alt="tippedleader110" />
