@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods name="MP09">
+  <Vanilla />
+  <Workshop name="Ammo extended 2 (RUSENG汉语) hash fix" id="2992490266" />
+  <Workshop name="Enhanced Armaments" id="2764968387" />
+  <Workshop name="Immersive Ammunition Boxes" id="3089776991" />
+  <Workshop name="BaroTraumatic" id="2518816103" />
+  <Workshop name="Lua For Barotrauma" id="2559634234" />
+  <Workshop name="Modding Toolkit" id="2905375979" />
+  <Workshop name="EuropaWaifu++ Non-xpath Version" id="2948283083" />
+  <Workshop name="EuropaWaifu++ Improved Husks Patch" id="2656090993" />
+  <Workshop name="Free-Bird-solo" id="2846464684" />
+  <Workshop name="More Marks" id="2884015780" />
+  <Workshop name="Lua Linker" id="2852315967" />
+  <Workshop name="Cyclops Mk-II" id="1768623483" />
+  <Workshop name="EK Mods for 1.x.x.x" id="2954237072" />
+  <Workshop name="[CN] Destroyer-Class SSN (carry drone)" id="1788008831" />
+  <Workshop name="Explorer" id="1972333145" />
+  <Workshop name="Improved Husks" id="2085783214" />
+  <Workshop name="Shipwrecks Extended" id="2095211492" />
+  <Workshop name="Brighter Lights" id="2121341895" />
+  <Workshop name="Vengeance Mk. III" id="2121725686" />
+  <Workshop name="Visual Variety Pack" id="2161488150" />
+  <Workshop name="New Wrecks For Barotrauma (With sellable wrecks)" id="2184257427" />
+  <Workshop name="SMS Olympus" id="2187915999" />
+  <Workshop name="EK Matriarch Mk-VII" id="2218505792" />
+  <Workshop name="Duffle Bag 2.0, Backpack &amp; WaistBelt" id="2251324465" />
+  <Workshop name="Beacons Extended" id="2389600483" />
+  <Workshop name="Project-941" id="2402831744" />
+  <Workshop name="Project-705k Lyra" id="2445826783" />
+  <Workshop name="Folksspulegewehr (handheld coilgun)" id="2511627423" />
+  <Workshop name="Kikori ship" id="1968073930" />
+  <Workshop name="ADV Beacon Stations" id="2544952900" />
+  <Workshop name="Zidrom MKVI" id="2563866874" />
+  <Workshop name="Backpacks" id="2613901395" />
+  <Workshop name="[VH] The Iroh" id="2602920829" />
+  <Workshop name="Wreck Locator" id="2767049553" />
+  <Workshop name="Movable and Sellable Wrecks" id="2772926011" />
+  <Workshop name="Cast Iron" id="2757150107" />
+  <Workshop name="Dont Open Debug Console On Errors" id="2807566753" />
+  <Workshop name="欧罗巴联盟 CA-202 T" id="2820919528" />
+  <Workshop name="Kasserine" id="2902312635" />
+  <Workshop name="G-FL 终末级重型巡洋舰 莱特号" id="2914837615" />
+  <Workshop name="Armory Weapons (and some clown craftables)" id="2923953426" />
+  <Workshop name="Melee Weapons Pack" id="2924423087" />
+  <Workshop name="Ye Olde Cannon" id="2932031871" />
+  <Workshop name="K-189" id="2886831891" />
+  <Workshop name="More Unique Weapons (v1.1) [ENRU]" id="2900879567" />
+  <Workshop name="USS William D. Porter" id="2919194973" />
+  <Workshop name="Auto-Doors for Outposts" id="2938995117" />
+  <Workshop name="Raptor MK1" id="2941929009" />
+  <Workshop name="Privateer" id="2946159217" />
+  <Workshop name="[ACE] Gadus" id="2948086632" />
+  <Workshop name="[SGM]Start With 6 Jobs" id="2949557780" />
+  <Workshop name="Typhon III" id="2952783640" />
+  <Workshop name="Tian-jin天津" id="2953169098" />
+  <Workshop name="Flatfish" id="2963170401" />
+  <Workshop name="KONGO" id="2972145162" />
+  <Workshop name="Malachite" id="2987005010" />
+  <Workshop name="Vanguard" id="3001614597" />
+  <Workshop name="THG Armory - 'Vanilla' Turret pack" id="3036314567" />
+  <Workshop name="Safe Cracker" id="3099781402" />
+  <Workshop name="奇迹之海武装" id="2827262734" />
+  <Workshop name="黑岩哨站（沉船）" id="2853862341" />
+  <Workshop name="小精整合美化包" id="2913405106" />
+  <Workshop name="IJN_turret_mod" id="2992449171" />
+  <Workshop name="DynamicEuropa" id="2532991202" />
+  <Workshop name="BaroCraftables+" id="2764140582" />
+  <Workshop name="“暮雨”(沉船）" id="2931216473" />
+  <Workshop name="Saber Armaments Revived" id="2877341978" />
+  <Workshop name="All Jobs See Reports" id="3169182250" />
+  <Workshop name="Rucksack2.0Revived" id="2803439172" />
+  <Workshop name="Ningen" id="3195464554" />
+  <Workshop name="ExtraXP" id="2962582697" />
+  <Workshop name="Extended Monsters Remastered" id="3199718832" />
+  <Workshop name="Simple Ammo Rack" id="3206880664" />
+  <Workshop name="Harmonica-Free-Bird-solo" id="2903734381" />
+  <Local name="Malachite MK 1" />
+  <Workshop name="RUSALKA 1" id="2019249609" />
+  <Workshop name="Demolition Vessel X-831" id="3254989834" />
+  <Workshop name="Brynmawr" id="3250148507" />
+  <Workshop name="长征-055S-019" id="3237543502" />
+  <Workshop name="FNS SwordFish" id="3253168842" />
+  <Workshop name="TSB-68" id="3173576625" />
+  <Workshop name="Amethyst Geode" id="2764259908" />
+  <Workshop name="Immersive Sonar UI - Vanilla Sonar Edition" id="3172973041" />
+  <Workshop name="CsForBarotrauma" id="2795927223" />
+  <Workshop name="Sort Container UI" id="2891181800" />
+  <Workshop name="EK Huxley Mk-II" id="2257594976" />
+  <Workshop name="EK_Kira_Mk-II" id="2519724605" />
+  <Workshop name="EK_Berith_Mk-II" id="2636444311" />
+  <Workshop name="Apo-4A Saber" id="2427316610" />
+  <Workshop name="Super Plague Rat 1.0.0" id="2638314941" />
+  <Workshop name="Apo-5 Chainsaw" id="2672724617" />
+  <Workshop name="Týr-提尔号" id="2788841831" />
+  <Workshop name="Mulga" id="2808778764" />
+  <Workshop name="Sellable Pirates" id="2810462005" />
+  <Workshop name="Sardine" id="2847437196" />
+  <Workshop name="Hotkey Reload-Swap" id="2887170458" />
+  <Workshop name="Oxygen Reloader" id="2958095512" />
+  <Workshop name="RHO'AN - ENCELADAN." id="3100964502" />
+  <Workshop name="Performance Fix" id="2701251094" />
+  <Workshop name="ECS Lightning" id="2543236520" />
+  <Workshop name="ECS Terran" id="2576080751" />
+  <Workshop name="ECS Jupiter" id="2394173991" />
+  <Workshop name="ECS Diode" id="2535956725" />
+  <Workshop name="ECS Goliath" id="2566549994" />
+  <Workshop name="ECS Argonaut" id="2688142460" />
+  <Workshop name="ECS - Express" id="2761621910" />
+  <Workshop name="ECS Enterprise" id="2826524572" />
+  <Workshop name="Zoom Key" id="2817020588" />
+  <Local name="KONGO MK 1" />
+  <Workshop name="BetterHealthUI (Updated)" id="3231293294" />
+  <Workshop name="S-618 SCORCH" id="3037572847" />
+  <Workshop name="Blue Shift" id="2875023079" />
+  <Workshop name="ThunderHawk-6" id="3263765539" />
+  <Workshop name="剑脊鲸号 大型巡洋舰" id="3261594520" />
+  <Workshop name="Project 952 'Tempest'" id="3192628267" />
+  <Workshop name="UHTS Conqueror" id="3199275120" />
+  <Workshop name="MUX7（暮春之雪）护航航空母舰 Escort aircraft carriers 白川（Shirakawa）" id="3162647473" />
+  <Workshop name="新紫魅级战列舰" id="3247598120" />
+  <Workshop name="Barotraumatic Creature Pack" id="2831987252" />
+  <Workshop name="Immersive Ammunition Boxes - Enhanced Armaments Compatibility Patch" id="3089781423" />
+  <Workshop name="Immersive Ammunition Boxes - THG Vanilla Turret Pack Compatibility Patch" id="3089783681" />
+  <Workshop name="Immersive Ammunition Boxes - EK 1.x.x.x Compatibility Patch" id="3089786511" />
+  <Workshop name="Immersive Ammunition Boxes - Ammo extended 2 (RUS-ENG-汉语) hash fix Compatibility Patch" id="3091582028" />
+  <Workshop name="Immersive Ammunition Boxes - Ammo extended 2 (RUS-ENG-汉语) Compatibility Patch" id="3091581457" />
+  <Workshop name="海洋坊系列：共生体Symbiont [Only for one player]" id="3163469048" />
+  <Workshop name="Fast Forward" id="3299673932" />
+  <Workshop name="WITHERING SOULS" id="2251179004" />
+  <Workshop name="Sonar Extension" id="2934770588" />
+  <Workshop name="EuropaWaifu++ Enhanced Armaments Patch" id="2901290907" />
+  <Workshop name="Sounds Of Europa" id="2347002377" />
+  <Workshop name="Better Turret Sounds" id="3300995291" />
+  <Workshop name="Railgun Sound (Yamato)" id="2799633330" />
+</mods>
